@@ -1,37 +1,33 @@
 # Hey 👋, I'm Owais Alam
 
-Turning raw data into insights 💡 | Exploring AI & ML 🤖 | Occasionally React-ing ⚛️  
-
-![Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
----
-
-### 🔭 What I’m Working On
-- 📊 **Data Analysis & Dashboards** – Python, SQL, Power BI  
-- 🤖 **Machine Learning & AI Experiments**  
-- ⚛️ **Interactive React mini-projects**  
-- ☕ Late-night data tinkering  
+Turning raw data into insights 💡 | Exploring AI & ML 🤖 | Occasionally React-ing ⚛️
 
 ---
 
 ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat-square&logo=sql)
-![Power BI](https://img.shields.io/badge/-PowerBI-333?style=flat-square&logo=microsoft-power-bi)
-![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
-![ML](https://img.shields.io/badge/-MachineLearning-333?style=flat-square)
-![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
 
----
+**Programming & Data:**  
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)  
+![SQL](https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=sql)  
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=for-the-badge&logo=pandas)  
+![NumPy](https://img.shields.io/badge/-NumPy-333?style=for-the-badge&logo=NumPy)  
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-333?style=for-the-badge&logo=scikit-learn)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=for-the-badge&logo=tensorflow)  
+![Keras](https://img.shields.io/badge/-Keras-333?style=for-the-badge&logo=keras)  
 
-### 🔥 Featured Projects
-| Project | Tech | Preview |
-|---------|------|--------|
-| [University Campaign Analytics](#) | Python + Power BI | ![preview](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif) |
-| [Sales Dashboard](#) | React + API | ![preview](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif) |
-| [AI Model Experiments](#) | Python + ML | ![preview](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif) |
+**BI & Visualization:**  
+![Power BI](https://img.shields.io/badge/-PowerBI-333?style=for-the-badge&logo=microsoft-power-bi)  
+![Tableau](https://img.shields.io/badge/-Tableau-333?style=for-the-badge&logo=tableau)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=for-the-badge&logo=matplotlib)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-333?style=for-the-badge&logo=seaborn)  
+![Plotly](https://img.shields.io/badge/-Plotly-333?style=for-the-badge&logo=plotly)  
 
-> Click the project names to see full repos 🖱️  
+**Web & Dev Tools:**  
+![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)  
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)  
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)  
+![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker)  
 
 ---
 
@@ -41,4 +37,4 @@ Turning raw data into insights 💡 | Exploring AI & ML 🤖 | Occasionally Reac
 
 ---
 
-> Currently experimenting with AI 🤖, React ⚛️, and coffee ☕ for late-night data hacks  
+> Currently exploring AI 🤖, ML models 📊, and interactive React projects ⚛️
