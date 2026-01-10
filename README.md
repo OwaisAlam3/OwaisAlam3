@@ -16,12 +16,12 @@
 
 ## 🚀 About Me
 
-Currently **Product & Data Intern at BreakThru**, where I analyze user behavior across 50K+ MAUs and build automated dashboards that reduced manual reporting by **65%**.
+Final year **Computer Systems Engineering** student specializing in data analytics and engineering. Focused on building scalable data solutions and transforming complex datasets into actionable insights.
 
-- 🎯 Passionate about **data-driven decision making** and **product analytics**
-- 📈 Building expertise in **Machine Learning** and **Data Engineering**
-- 🏆 Ranked **7th in Karachi** (95.55%) in Pre-Engineering
-- 🌱 Completing **Google Data Analytics Certificate** & trained in **Harvard CS50**
+- 🎯 Transitioning from **Data Analysis** to **Data Engineering**
+- 🔧 Building expertise in **ETL pipelines**, **data warehousing**, and **cloud platforms**
+- 📊 Experienced in analyzing large datasets (100K+ records) and creating automated dashboards
+- 🏆 Ranked **7th in Karachi** (95.55%) • **Google Data Analytics** certified • **Harvard CS50** trained
 
 ---
 
@@ -46,16 +46,16 @@ Currently **Product & Data Intern at BreakThru**, where I analyze user behavior 
 
 ## 💼 Featured Projects
 
-**📺 [YouTube Creator Growth Analysis](https://github.com/OwaisAlam3)**  
+**📺 YouTube Creator Growth Analysis**  
 Built data pipeline using YouTube API to analyze 50K+ Pakistani creators • Python • Power BI • EDA
 
-**🦠 [COVID-19 Data Analysis](https://github.com/OwaisAlam3)**  
+**🦠 COVID-19 Data Analysis**  
 Analyzed 500K+ records across 50+ countries • SQL • Python • Interactive Dashboards
 
-**🍔 [CampusBites - Food Delivery App](https://github.com/OwaisAlam3)**  
+**🍔 CampusBites - Food Delivery App**  
 Campus food delivery with real-time analytics • Flutter • Firebase • A/B Testing
 
-**📊 [E-Commerce Analytics Dashboard](https://github.com/OwaisAlam3)**  
+**📊 E-Commerce Analytics Dashboard**  
 Analyzed 100K+ transactions with 85%+ sales forecasting accuracy • SQL • Python • Power BI
 
 ---
@@ -71,7 +71,7 @@ Analyzed 100K+ transactions with 85%+ sales forecasting accuracy • SQL • Pyt
 
 <div align="center">
   
-*"Data tells stories. I help uncover them."*
+*"From insights to infrastructure—building the backbone of data-driven decisions."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=OwaisAlam3&color=blueviolet&style=flat-square)
 
