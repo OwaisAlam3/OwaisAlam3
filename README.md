@@ -1,59 +1,78 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Hi,%20I'm%20Owais%20Alam%20📊&fontSize=50&animation=fadeIn" width="100%" />
+  
+# 👋 Hi, I'm Owais Alam
 
-  <h3>Data-Driven Analyst | Final Year Engineering Student @ NED University</h3>
+### 📊 Data Analyst | 🎓 Computer Systems Engineering @ NED University
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/owais-alam-/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:owais.alam338@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
+*Transforming data into actionable insights through Python, SQL, and modern BI tools*
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owais-alam-)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:owais.alam338@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/OwaisAlam3)
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
-[cite_start]I am an aspiring **Data Analyst and Product Owner** currently completing my Bachelor of Engineering in **Computer Systems Engineering** at NED University[cite: 58, 60, 65]. I specialize in transforming complex datasets into actionable business insights and am currently building expertise in **Data Engineering and Machine Learning**.
+## 🚀 About Me
 
-* [cite_start]🚀 **Current Role:** Product & Data Intern at Break Thru, where I've helped reduce manual reporting time by 65% through automation[cite: 79, 80, 86].
-* [cite_start]🎓 **Education:** Final year student at NED University of Engineering & Technology[cite: 65, 70].
-* 🎯 **Mission:** Bridging the gap between engineering, data analysis, and product growth.
-* 💡 **Interests:** Machine Learning, Scalable Data Pipelines, and occasional React projects.
+Currently **Product & Data Intern at BreakThru**, where I analyze user behavior across 50K+ MAUs and build automated dashboards that reduced manual reporting by **65%**.
 
----
-
-### 🛠️ Technical Toolkit
-
-#### 📊 Data Analysis & BI
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-#### 🏗️ Engineering & Backend
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-
-#### 📋 Management & Tools
-<img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+- 🎯 Passionate about **data-driven decision making** and **product analytics**
+- 📈 Building expertise in **Machine Learning** and **Data Engineering**
+- 🏆 Ranked **7th in Karachi** (95.55%) in Pre-Engineering
+- 🌱 Completing **Google Data Analytics Certificate** & trained in **Harvard CS50**
 
 ---
 
-### 📈 GitHub Insights
+## 🛠️ Tech Stack
+
+**Data & Analytics**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+**Development & Tools**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+---
+
+## 💼 Featured Projects
+
+**📺 [YouTube Creator Growth Analysis](https://github.com/OwaisAlam3)**  
+Built data pipeline using YouTube API to analyze 50K+ Pakistani creators • Python • Power BI • EDA
+
+**🦠 [COVID-19 Data Analysis](https://github.com/OwaisAlam3)**  
+Analyzed 500K+ records across 50+ countries • SQL • Python • Interactive Dashboards
+
+**🍔 [CampusBites - Food Delivery App](https://github.com/OwaisAlam3)**  
+Campus food delivery with real-time analytics • Flutter • Firebase • A/B Testing
+
+**📊 [E-Commerce Analytics Dashboard](https://github.com/OwaisAlam3)**  
+Analyzed 100K+ transactions with 85%+ sales forecasting accuracy • SQL • Python • Power BI
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OwaisAlam3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisAlam3&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=OwaisAlam3&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisAlam3&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
 
-### 🏆 Certifications & Achievements
-* [cite_start]**Google Data Analytics Professional Certificate** (In Progress) [cite: 118]
-* [cite_start]**CS50: Introduction to Computer Science** - Harvard University [cite: 120]
-* [cite_start]**Advanced SQL for Data Analysis** - DataCamp [cite: 119]
-* [cite_start]**Ranked 7th in Karachi** (Intermediate) with 95.55% [cite: 67]
+<div align="center">
+  
+*"Data tells stories. I help uncover them."*
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=OwaisAlam3&color=blueviolet&style=flat-square)
 
-<p align="center">
-  <i>"Leveraging data to solve real-world problems and drive strategic decisions."</i>
-</p>
+</div>
