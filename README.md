@@ -16,12 +16,12 @@
 ---
 
 ### 👨‍💻 About Me
-[cite_start]I am an aspiring **Data Analyst and Product Owner** currently completing my Bachelor of Engineering in **Computer Systems Engineering** at NED University[cite: 58, 60, 65]. I specialize in transforming complex datasets into actionable business insights and am currently building expertise in **Data Engineering** and **Machine Learning**.
+I am an aspiring **Data Analyst and Product Owner** currently completing my Bachelor of Engineering in **Computer Systems Engineering** at NED University[cite: 58, 60, 65]. I specialize in transforming complex datasets into actionable business insights and am currently building expertise in **Data Engineering and Machine Learning**.
 
-- [cite_start]🔭 **Current Role:** Product & Data Intern at Break Thru, where I've helped reduce manual reporting time by 65% through automation[cite: 79, 80, 86].
-- [cite_start]🎓 **Education:** Final year student at NED University of Engineering & Technology[cite: 65, 70].
-- 🚀 **Mission:** Bridging the gap between engineering, data analysis, and product growth.
-- 💡 **Interests:** Machine Learning, Scalable Data Pipelines, and occasional React projects.
+* [cite_start]🚀 **Current Role:** Product & Data Intern at Break Thru, where I've helped reduce manual reporting time by 65% through automation[cite: 79, 80, 86].
+* [cite_start]🎓 **Education:** Final year student at NED University of Engineering & Technology[cite: 65, 70].
+* 🎯 **Mission:** Bridging the gap between engineering, data analysis, and product growth.
+* 💡 **Interests:** Machine Learning, Scalable Data Pipelines, and occasional React projects.
 
 ---
 
@@ -50,7 +50,7 @@
 * [cite_start]**Google Data Analytics Professional Certificate** (In Progress) [cite: 118]
 * [cite_start]**CS50: Introduction to Computer Science** - Harvard University [cite: 120]
 * [cite_start]**Advanced SQL for Data Analysis** - DataCamp [cite: 119]
-* [cite_start]**Ranked 7th** in Karachi (Intermediate) with 95.55% [cite: 67]
+* [cite_start]**Ranked 7th in Karachi** (Intermediate) with 95.55% [cite: 67]
 
 ---
 
