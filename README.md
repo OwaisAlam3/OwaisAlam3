@@ -16,7 +16,6 @@ Final year engineering student passionate about turning data into actionable ins
 - 📊 Specializing in data analysis, visualization, and business intelligence
 - 🔧 Learning data engineering and cloud data platforms
 - 🎓 Google Data Analytics certified • Harvard CS50 trained
-- 🏆 Ranked 7th in Karachi (95.55%)
 
 ## Tech Stack
 
