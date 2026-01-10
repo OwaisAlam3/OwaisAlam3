@@ -2,7 +2,7 @@
 
 # Hi, I'm Owais Alam 👋
 
-**Data Analyst | Computer Systems Engineering Student**
+**Data Analytics & Engineering | Computer Systems Engineering Student | NED'26**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owais-alam-)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:owais.alam338@gmail.com)
