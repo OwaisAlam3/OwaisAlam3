@@ -30,6 +30,6 @@
 
 <br><br>
 
-<a href="mailto:owais.alam338@gmail.com"><img src="assets/btn-email.svg" height="44" alt="owais.alam338@gmail.com" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/owais-alam-"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
+<a href="mailto:owais.analytics@gmail.com"><img src="assets/btn-email.svg" height="44" alt="owais.analytics@gmail.com" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/owais-alam-"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
 
 </div>
