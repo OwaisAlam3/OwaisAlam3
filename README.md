@@ -2,7 +2,7 @@
 
 <img src="assets/hero.svg" width="100%" alt="Owais Alam, Data & Analytics Engineer. I build the data layer behind growing brands." />
 
-<a href="mailto:owais.alam338@gmail.com"><img src="assets/btn-talk.svg" height="44" alt="Let's talk" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/owais-alam-"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
+<a href="mailto:owais.analytics@gmail.com"><img src="assets/btn-talk.svg" height="44" alt="Let's talk" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/owais-alam-"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
 
 <br><br>
 
