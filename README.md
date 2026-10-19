@@ -2,7 +2,7 @@
 
 <img src="assets/hero.svg" width="100%" alt="Owais Alam, Data & Analytics Engineer. I build the data layer behind growing brands." />
 
-<a href="mailto:owais.analytics@gmail.com"><img src="assets/btn-talk.svg" height="44" alt="Let's talk" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/owais-alam-"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
+<a href="mailto:owais.analytics@gmail.com"><img src="assets/btn-talk-v2.svg" height="48" alt="Let's talk" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/owais-alam-"><img src="assets/btn-linkedin-v2.svg" height="48" alt="LinkedIn" /></a>
 
 <br><br>
 
@@ -30,6 +30,6 @@
 
 <br><br>
 
-<a href="mailto:owais.analytics@gmail.com"><img src="assets/btn-email.svg" height="44" alt="owais.analytics@gmail.com" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/owais-alam-"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
+<a href="mailto:owais.analytics@gmail.com"><img src="assets/btn-email-v2.svg" height="48" alt="owais.analytics@gmail.com" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/owais-alam-"><img src="assets/btn-linkedin-v2.svg" height="48" alt="LinkedIn" /></a>
 
 </div>
